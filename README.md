@@ -8,6 +8,8 @@ actionLink: /article/000a.html
 <br>
 <br>
 
+[あらすじ](https://github.com/jamcha-aa/git-magit/wiki)
+
 スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。
 
 <br>
