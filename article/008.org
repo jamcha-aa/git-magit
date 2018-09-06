@@ -1,0 +1,142 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+#+OPTIONS: ^:{}
+
+* 008: Esc
+
+  バツは剣を構え，何度も深呼吸すると，刃を人差し指でなぞった。
+
+  ぷつっ。
+
+  血を吸った剣が光を帯びる。
+
+  『唱えろ。 ~l b~ 』
+
+  「1
+
+  #+BEGIN_SRC 
+  b
+  #+END_SRC
+
+  」
+
+  バツが呪文を唱えると，新たな記号の群れが下からせりあがった。
+
+  #+BEGIN_SRC 
+  Configure progress
+   d branch.progress.description unset
+   u branch.progress.merge       refs/heads/progress
+     branch.progress.remote      origin
+   r branch.progress.rebase      [true|false|default:false]
+   p branch.progress.pushRemote  [origin]
+
+  Configure repository defaults
+   M-r pull.rebase        [true|false|default:false]
+   M-p remote.pushDefault [origin]
+
+  Configure branch creation
+   U branch.autoSetupMerge  [always|true|false|default:true]
+   R branch.autoSetupRebase [always|local|remote|never|default:never]
+
+  Actions
+   b Checkout                                                  C Configure...
+   l Checkout local branch       s Create new spin-off         m Rename
+   c Checkout new branch         n Create new branch           X Reset
+   y Checkout pull-request       Y Create from pull-request    x Delete
+   w Checkout new worktree       W Create new worktree  Configure progress
+  #+END_SRC
+
+  『馬鹿 ! 違う ! 』
+
+  急にクロメが怒鳴った。『 1 じゃない ~l~ だ ! 』
+
+  「え ？
+
+  #+BEGIN_SRC 
+  l
+  #+END_SRC
+
+  …？」
+
+  バツの呪文に，目の前の文字がさらに変わる。
+
+  #+BEGIN_SRC 
+  Checkout branch: 
+  #+END_SRC
+
+  『はぁ…剣を下ろせ』
+
+  言われるままに剣を下ろすバツ。指にむずがゆい痛みを感じ，傷口を見つめている。
+
+  『唱え直しだ』「ええっ？」
+
+  唱え直し。また切ることになるのか，とバツが落胆する。
+
+  そんなことはおかまいなしにクロメは続ける。『次に剣を構えたら， ~⎋~ と唱えるんだ。そうすれば Magit は 元の姿に戻る』「ごめん，聞き取れない」『 ~⎋~ 』
+
+  「…」バツが眉を寄せ，困った表情をしている。『お前は耳がないのか？』
+
+  「地獄の言葉なんか聞き取れるわけない」
+
+  開き直るバツ。いや，むしろ，これまで地獄の呪文を一度聞いただけで復唱できたことのほうが奇跡であった。
+
+  『お前には素質があるようだ』クロメはバツにわからないような言い方でほめた。
+
+  「どういうこと？」
+
+  『なんでもない。続けるぞ。次に剣を構えたら，視線を左上に向けて ~Esc~ と言うんだ。これならお前もわかるだろう』
+
+  「 ~Esc~ 」
+
+  その呪文を頭に浮かべ，剣を構えるバツ。指を刃先にのせ，歯を食いしばる。だが自ら傷口を広げる恐怖に，全身がこわばって動かなくなってしまう。
+
+  「き，きぃー…」
+
+  『奇声をあげてないで早くしろ』
+
+  「だまれ。精神が乱れる」
+
+  バツは息を止め，目をきつく閉じる。「…」
+
+  そうして指をなぞった。指先に先とは違う痛みがはしる。
+
+  「くっ… ~Esc~ っ… ! ! 」
+
+  指を剣に食いこませたまま，バツは何とか呪文を詠唱した。
+
+  <br>
+
+  …
+
+  薄目を開けて前を見る。
+
+  #+BEGIN_SRC 
+  Checkout branch: 
+  #+END_SRC
+
+  「あ，あれ？さっきと変わらないけど…」
+
+  『あたりまえだ。お前が目を閉じていては呪文を反映できん』
+
+  「 ! ! 」
+
+  怒りで剣を地面に突き立てる。「そういうのはもっと前に言ってよ ! 」『じゃあ Magit でお前の痛みの記憶も消すか？』「あやまれって言ってるんだよ ! 」『痛みの記憶そのものがなければ謝る必要もない。そもそもお前が呪文を間違わなければこんなことにもなっていない』「ねえ，一言『ごめん』って言えば済む話でしょ？どうしてそう意固地になるわけ？」『謝る必要がないからだ』「君が一言いえばね，私は許すって言ってるんだよ。お詫びも何も求めてないわけ。わかる？この寛容な心 ! 」
+
+  『君…か』
+
+  ふっとクロメが言った。どことなく穏やかな調子だった。
+
+  「あっ…お，お前が」
+
+  『悪かったな。バツ』
+
+  恥ずかしそうに強がるバツに，クロメは素直に謝った。それが嬉しかったのか，バツは「ふ，ふん」と鼻息をつき，剣を抜く。
+
+  「あ，あやまれば…よろしい」
+
+  <br>
+  <br>
+
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  ![[https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
