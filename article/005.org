@@ -115,8 +115,8 @@
   目がくらむバツ。その前に見慣れない文字が浮かびあがった。
 
   #+BEGIN_SRC 
-  Head:     master Add TheEnd
-  Merge:    origin/master Add TheEnd
+  Head:     master Add end
+  Merge:    origin/master Add end
   #+END_SRC
 
   <br>
