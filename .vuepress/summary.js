@@ -6,7 +6,7 @@ exports.genSidebarConfig = function () {
         },
         {
             title: '霊山',
-            children: ['000b', '012']
+            children: ['000b', '012', '013']
         }
     ]
 }
