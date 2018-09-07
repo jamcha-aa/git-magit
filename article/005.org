@@ -104,9 +104,9 @@
 
   クロメの言うまま，バツは叫んだ。
 
-  #+BEGIN_SRC 
+  #+BEGIN_QUOTE
   C-x g
-  #+END_SRC
+  #+END_QUOTE
 
   突風が吹き荒れた。イバラの樹々が激しく揺さぶられる。
 
