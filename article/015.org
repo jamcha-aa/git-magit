@@ -14,10 +14,13 @@
 
   ![[https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png][GitHub Fork Button]]
   (GitHub, [[https://commons.wikimedia.org/wiki/File:GitHub_Fork_Button.png][GitHub_Fork_Button]], SIL Open Font License)
-  
+
   <br>
 
-  ![[./images/create-remote-branch.png][create remote branch]] 
+  #+BEGIN_SRC 
+  $ git clone 😂😠😷😢😍😠.😠😠@😬😷😠👿😆.😢😮😷:qr0me/asatsuyu
+  $ cd ../asatsuyu
+  #+END_SRC
 
   <br>
 
@@ -64,6 +67,8 @@
   『俺にそんな力はないと言っているだろう。もしそうなら君に頼ったりなどしない』
 
   「そりゃあ，そうだけどさ…」
+
+  詠唱のたびに自分が傷つくことを，少しは労 (ねぎら) ってほしい。そう思った。
 
   <br>
 
