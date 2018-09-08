@@ -2,8 +2,10 @@
 home: true
 heroImage: /hero.png
 actionText: 読む
-actionLink: /article/000a.html
+actionLink: /article/
 ---
+
+<!-- README 以外のファイルを actionLink に指定するときは actionLink: /article/000a.html のようにする -->
 
 <br>
 <br>
