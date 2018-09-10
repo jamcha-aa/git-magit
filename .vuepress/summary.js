@@ -10,7 +10,7 @@ exports.genSidebarConfig = function () {
         },
         {
             title: '小五院',
-            children: ['000c', '021', '022', '023']
+            children: ['000c', '021', '022', '023', '024']
         }
     ]
 }
