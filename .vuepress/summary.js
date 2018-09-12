@@ -11,6 +11,10 @@ exports.genSidebarConfig = function () {
         {
             title: '小五院',
             children: ['000c', '021', '022', '023', '024', '025', '026', '027', '028']
+        },
+        {
+            title: '小五院防衛戦',
+            children: ['000d', '029']
         }
-    ]
+     ]
 }
