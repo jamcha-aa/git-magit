@@ -14,7 +14,7 @@ exports.genSidebarConfig = function () {
         },
         {
             title: '小五院防衛戦',
-            children: ['000d', '029', '030']
+            children: ['000d', '029', '030', '031']
         }
      ]
 }
