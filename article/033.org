@@ -1,0 +1,151 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+#+OPTIONS: ^:{}
+
+* 033 commit
+
+  『この世界の全ての状態はひとつの数値で表される。 ~magit-log~ の先頭に表示されている値がそれで…』
+
+  食事を終えたバツが大きくあくびをしている。
+
+  『おい，大事な話なんだぞ。しっかり聞け』「ええー。だってつまんないんだもん。いつ終わるの？終わったら教えて」
+
+  『俺の話を聞かなかったら，終わるのはこの世界のほうになるぞ』
+
+  ぞくり，とバツの背中に冷たいものが流れる。
+
+  『君にもわかるように教えるつもりだ。ちゃんと聞いてくれ』「…わかった」
+
+  <br>
+
+  『そこの石を拾ってみろ』
+
+  バツが言われたとおりに石を手に持つ。『そのまま ~g~ と唱えろ。これは ~magit-status~ を再度呼び出す呪文だ』
+
+  「…」石を手にしたままバツがたずねる。「これも指切らなきゃだめなの？」『今はな。緊急のときは俺が代わってやる』「今は…」『緊急時ではないと断言できるな』
+
+  はぁ。とバツは観念し，剣を構える。
+
+  『一つ言い忘れていたが』「なに？」『そんな大層な構えをとらなくても，剣に君の血を与えればどんな姿勢でも詠唱ができる』
+
+  <br>
+
+  「はぁ !？」
+
+  <br>
+
+  思わず出てしまった大きな声に，近くで作業をしていた人々が何事かと振り向く。バツは頭をぺこぺこと下げ，うらめしそうにクロメに言う。
+
+  「そんなに私をからかって，楽しい？」『そうでもしないと君はいつまでも自分を切ろうとしないだろう？』
+
+  「…」
+
+  図星のバツは答えず，横に石を置いて座ったまま指を切った。
+
+  #+BEGIN_QUOTE
+  g
+  #+END_QUOTE
+
+  #+BEGIN_SRC 
+  Head:     primus Merge pull request #17 from kaburaho/bottle
+  Merge:    origin/primus Merge pull request #17 from kaburaho/bottle
+
+  Unstaged changes (2)
+  modified gardenl5/stone-s.obj
+  modified gardenl5/tub1a.obj
+  #+END_SRC
+
+  「あ，何か追加されてる」
+
+  『それは君がこの石を操作したからだ…あと，飯の桶。この世界では君が操作したものをGitが記録する』
+
+  「ふーん」
+
+  クロメは理解を妨げる要素を除外したはずだった。だが飯の桶が入ってしまうとは。どこまでバツは食に貪欲 (どんよく) なのかとクロメはあきれてしまった。
+
+「指で ~Unstaged changes~ のところを指して ~s~ と唱えてみろ。血はなくてもいい」
+
+  #+BEGIN_QUOTE
+  s
+  #+END_QUOTE
+
+  #+BEGIN_SRC 
+  Head:     primus Merge pull request #17 from kaburaho/bottle
+  Merge:    origin/primus Merge pull request #17 from kaburaho/bottle
+
+  Staged changes (2)
+  modified gardenl5/stone-s.obj
+  modified gardenl5/tub1a.obj
+  #+END_SRC
+
+  「あ，変わった」『それで記録の準備ができた。 ~c c~ を唱えろ』
+
+  「…」『早く指を切れ』「やっぱり」
+
+  ぷつっ。
+
+  #+BEGIN_QUOTE
+  c c
+  #+END_QUOTE
+
+  #+BEGIN_SRC 
+  |
+
+  # Please enter the commit message for your changes. Lines starting
+  # with '#' will be ignored, and an empty message aborts the commit.
+  #
+  # ブランチ primus
+  # コミット予定の変更点:
+  # modified gardenl5/stone-s.obj
+  # modified gardenl5/tub1a.obj
+  #
+  #+END_SRC
+
+  「な，なんかどんどん文字が変わってよくわからない…」バツが不安になる。
+
+  『そのうち慣れる。ここで君が変えた物の題名をつけるんだ』「題名？」『君は ~magit-status~ を呼びだしてから，何を変えた？』「ごはん食べた」
+
+  『…』
+
+  これで本当にバツは理解してくれるだろうか。クロメはこいつを満腹にさせてから説明をはじめればよかった，と後悔した。いや，それでは寝てしまうかもしれない。
+
+  『…ああ。じゃあ，それを題名にしよう…』
+
+  #+BEGIN_SRC 
+  Ate delicious lunch
+
+  # Please enter the commit message for your changes. Lines starting
+  # with '#' will be ignored, and an empty message aborts the commit.
+  #
+  # ブランチ primus
+  # コミット予定の変更点:
+  # modified gardenl5/stone-s.obj
+  # modified gardenl5/tub1a.obj
+  #
+  #+END_SRC
+
+  「できたよ」
+
+  『…最後に ~C-c C-c~ だ。それで ~commit~ が終わる』「 ~commit~ ？」『Gitに記録を残す作業のことだ。まあいずれ覚えるだろう』
+
+  「ふーん…」『…』「…」『おい，まだ切るのが嫌なのか？』「あたりまえじゃん ! 」
+
+  たかが石ひとつ場所を変えるだけでどれだけ自分が傷つくのか。しぶしぶとバツは剣に指を当てる。
+
+  ぷつっ。
+
+  #+BEGIN_QUOTE
+  C-c C-c
+  #+END_QUOTE
+
+  #+BEGIN_SRC 
+  Head:     primus Ate delicious lunch
+  Merge:    origin/primus Merge pull request #17 from kaburaho/bottle
+  #+END_SRC
+
+  <br>
+  <br>
+
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  ![[https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
