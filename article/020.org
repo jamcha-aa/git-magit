@@ -12,7 +12,7 @@
 
   #+BEGIN_SRC 
   Stashes (1)
-  stash@{0} 0bfd8ed On primus: 0bfd8ed In the beginning there was darkness
+  stash@{0} On primus: 0bfd8ed In the beginning there was darkness
   #+END_SRC
 
   <br>
