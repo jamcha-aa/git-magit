@@ -50,20 +50,17 @@
   Head:     primus Merge pull request #17 from kaburaho/bottle
   Merge:    origin/primus Merge pull request #17 from kaburaho/bottle
 
-  Unstaged changes (2)
-  modified gardenl5/stone-s.obj
-  modified gardenl5/tub1a.obj
+  Unstaged changes (1)
+  modified gardenl5/objects.map
   #+END_SRC
 
   「あれ，何か増えてる」
 
-  『それは君がこの石を操作したからだ…あと，メシの桶だろう，多分。この世界では君が操作したものをGitが記録する』
+  『それは君がこの石を操作したからだ。この世界では君が操作したものをGitが記録する』
 
   「ふーん」
 
-  クロメは理解を妨げる要素を除外したはずだった。だが飯が入ってしまうとは。どこまでバツは食に貪欲 (どんよく) なのかとクロメはあきれてしまった。
-
-「指で ~Unstaged changes~ のところをさして ~s~ と唱えてみろ。血はなくてもいい」
+  「指で ~Unstaged changes~ のところをさして ~s~ と唱えてみろ。血はなくてもいい」
 
   #+BEGIN_QUOTE
   s
@@ -73,9 +70,8 @@
   Head:     primus Merge pull request #17 from kaburaho/bottle
   Merge:    origin/primus Merge pull request #17 from kaburaho/bottle
 
-  Staged changes (2)
-  modified gardenl5/stone-s.obj
-  modified gardenl5/tub1a.obj
+  Staged changes (1)
+  modified gardenl5/objects.map
   #+END_SRC
 
   「あ，変わった」
@@ -100,8 +96,7 @@
   #
   # ブランチ primus
   # コミット予定の変更点:
-  # modified gardenl5/stone-s.obj
-  # modified gardenl5/tub1a.obj
+  # modified gardenl5/objects.map
   #
   #+END_SRC
 
@@ -127,8 +122,7 @@
   #
   # ブランチ primus
   # コミット予定の変更点:
-  # modified gardenl5/stone-s.obj
-  # modified gardenl5/tub1a.obj
+  # modified gardenl5/objects.map
   #
   #+END_SRC
 
@@ -138,7 +132,7 @@
 
   「ふーん…」『…』「…」『おい，まだ切るのが嫌なのか？』「あたりまえじゃん ! 」
 
-  たかが石ひとつ場所を変えるだけでどれだけ自分を傷つけなければならないのか。しぶしぶバツは剣に指を当てる。
+  たかが石ひとつの場所を変えるだけでどれだけ自分を傷つけなければならないのか。しぶしぶバツは剣に指を当てる。
 
   ぷつっ。
 
