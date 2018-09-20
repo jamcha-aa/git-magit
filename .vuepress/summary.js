@@ -18,7 +18,7 @@ exports.genSidebarConfig = function () {
         },
         {
             title: '大三院',
-            children: ['000e', '041', '042']
+            children: ['000e', '041', '042', '043']
         }
      ]
 }
