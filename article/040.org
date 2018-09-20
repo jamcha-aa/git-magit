@@ -55,7 +55,7 @@
   Head:     primus left the fifth temple
   Merge:    origin/primus Merge pull request #17 from kaburaho/bottle
 
-  stash@{0} On primus: 3c9f3e left the fifth temple
+  stash@{0} On primus: 3c9f3e2 left the fifth temple
   #+END_SRC
 
   「…」
